@@ -17,4 +17,5 @@ https://movies-database-website.netlify.app/
 
 
 #### PREVIEW
-![Movie-DB](https://github.com/JuliaCMint/movies-database/assets/105377899/c63a1b70-37f7-4e50-bad8-885150eb8cd9)
+
+![Movie-DB](https://github.com/JuliaCMint/movies-database/assets/105377899/73b53087-0944-4280-a442-72c86e823a9a)
